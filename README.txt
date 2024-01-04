@@ -1,3 +1,7 @@
+Forking this to support reviving an old project that depends on it. Will update as needed.
+
+# Original README below
+
 NOTE
     This documentation is very similar to the header in OSC.py. One day both should be merged and placed either
 	in this file or in OSC.py to avoid diverging documentation.
